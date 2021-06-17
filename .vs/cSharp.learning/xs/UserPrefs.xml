@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{84A74FD5-3487-4851-963D-B47260E2770C}|Default">
+  <MonoDevelop.Ide.ItemProperties.cSharp.learning PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="cSharp.learning/Data.cs">
+    <Files>
+      <File FileName="cSharp.learning/Program.cs" Line="77" Column="50" />
+      <File FileName="cSharp.learning/Learning_2.cs" Line="143" Column="13" />
+      <File FileName="cSharp.learning/login-info.txt" Line="2" Column="7" />
+      <File FileName="cSharp.learning/Data.cs" Line="5" Column="6" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="cSharp.learning" expanded="True">
+            <Node name="cSharp.learning" expanded="True">
+              <Node name="Data.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

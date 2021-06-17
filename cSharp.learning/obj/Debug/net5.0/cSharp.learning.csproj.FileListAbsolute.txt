@@ -1,0 +1,15 @@
+/Users/waljunye/Projects/cSharp.learning/cSharp.learning/obj/Debug/net5.0/cSharp.learning.csproj.AssemblyReference.cache
+/Users/waljunye/Projects/cSharp.learning/cSharp.learning/obj/Debug/net5.0/cSharp.learning.GeneratedMSBuildEditorConfig.editorconfig
+/Users/waljunye/Projects/cSharp.learning/cSharp.learning/obj/Debug/net5.0/cSharp.learning.AssemblyInfoInputs.cache
+/Users/waljunye/Projects/cSharp.learning/cSharp.learning/obj/Debug/net5.0/cSharp.learning.AssemblyInfo.cs
+/Users/waljunye/Projects/cSharp.learning/cSharp.learning/obj/Debug/net5.0/cSharp.learning.csproj.CoreCompileInputs.cache
+/Users/waljunye/Projects/cSharp.learning/cSharp.learning/bin/Debug/net5.0/cSharp.learning.deps.json
+/Users/waljunye/Projects/cSharp.learning/cSharp.learning/bin/Debug/net5.0/cSharp.learning.runtimeconfig.json
+/Users/waljunye/Projects/cSharp.learning/cSharp.learning/bin/Debug/net5.0/cSharp.learning.runtimeconfig.dev.json
+/Users/waljunye/Projects/cSharp.learning/cSharp.learning/bin/Debug/net5.0/cSharp.learning.dll
+/Users/waljunye/Projects/cSharp.learning/cSharp.learning/bin/Debug/net5.0/ref/cSharp.learning.dll
+/Users/waljunye/Projects/cSharp.learning/cSharp.learning/bin/Debug/net5.0/cSharp.learning.pdb
+/Users/waljunye/Projects/cSharp.learning/cSharp.learning/obj/Debug/net5.0/cSharp.learning.dll
+/Users/waljunye/Projects/cSharp.learning/cSharp.learning/obj/Debug/net5.0/ref/cSharp.learning.dll
+/Users/waljunye/Projects/cSharp.learning/cSharp.learning/obj/Debug/net5.0/cSharp.learning.pdb
+/Users/waljunye/Projects/cSharp.learning/cSharp.learning/obj/Debug/net5.0/cSharp.learning.genruntimeconfig.cache
